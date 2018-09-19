@@ -1,0 +1,9 @@
+{
+  "$schema": "../node_modules/@angular-devkit/schematics/collection-schema.json",
+  "schematics": {
+    "zenikanard": {
+      "description": "A blank schematic.",
+      "factory": "./zenikanard-schematics/index#zenikanardSchematics"
+    }
+  }
+}
